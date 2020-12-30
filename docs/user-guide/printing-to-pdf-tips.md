@@ -29,7 +29,7 @@ Due to a security policy some of HTML tags, attributes or styles may not be supp
 * `<i>some text</i>` - italic text style
 * `<s>some text</s>` - crossline the text
 * `<br>` - insert single line breaks in a text
-* `<span>some text</span>` - element which is used to color a part of a text: `<span style="color: rgb(255, 255, 255);>`. Also in PDF constructor the <span> tag is very helpful for setting the single string parameters or putting a single line of an empty string.
+* `<span>some text</span>` - element which is used to color a part of a text: `<span style="color: rgb(255, 255, 255);>`. The `<span>` tag is also very helpful for setting the single string parameters or adding a single empty line.
 * `<p>some text</p>` - defines a paragraph.
 * `<div>some text</div>` - used as a container for HTML elements.
 
