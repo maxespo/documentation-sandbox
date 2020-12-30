@@ -54,21 +54,24 @@ Code view: `<img src="https://www.espocrm.com/images/espocrm-logo.png" width="30
 
 ## Table
 
-Table 2x2 structure:
+2x2 table structure example:
 ```
 <table class="table table-bordered" border="0.5pt">
   <tbody>
     <tr bgcolor="#659B86">
-      <td bgcolor="#659B86" width="25%" style="text-align: center;">
-        <span style="color: rgb(0, 0, 0); font-size: 12px; line-height: 1;">some text</span>
+      <td bgcolor="#659B86" width="50%" style="text-align: center;">
+        <span style="color: rgb(0, 0, 0); font-size: 12px; line-height: 1;">id</span>
       </td>
-      <td width="75%" style="text-align: center;">
+      <td width="50%" style="text-align: center;">
+        <span style="color: rgb(0, 0, 0); font-size: 12px; line-height: 1;">user_name</span>
       </td>
     </tr>
     <tr>
-      <td width="25%" style="text-align: center;">
+      <td width="50%" style="text-align: center;">
+        <span style="color: rgb(0, 0, 0); font-size: 12px; line-height: 1;">1</span>
       </td>
-      <td width="75%" style="text-align: center;">
+      <td width="50%" style="text-align: center;">
+        <span style="color: rgb(0, 0, 0); font-size: 12px; line-height: 1;">Admin</span>
       </td>
     </tr>
   </tbody>
