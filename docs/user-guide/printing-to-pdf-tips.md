@@ -7,7 +7,7 @@ In this article:
  * [Text](#text)
  * [Logo/Image](#logo-image)
  * [Table](#table)
- * [link](#link)
+ * [Link](#link)
 
 ## PDF editor scheme
 
@@ -35,7 +35,7 @@ Due to a security policy some of HTML tags, attributes or styles may not be supp
 
 ## Logo/Image
 
-#### How to add image
+#### How to add an image
 
 You can add a logo of your company or other images to your PDF document with the next ways:
 * Click the picture button in the tools panel -> Browse -> select a file.
@@ -47,7 +47,7 @@ By utilizing this code line you are even able to fetch the image from the Docume
 
 Code view: `<img src="https://www.espocrm.com/images/espocrm-logo.png" width="300" height="100">`
 
-#### Resize image
+#### Image resize
 
 * Setting size with in percentage: `style="width: 25%;"`
 * Setting size with in pixels: `width="300" height="100"`
