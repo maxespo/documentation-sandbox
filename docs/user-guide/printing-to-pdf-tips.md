@@ -59,7 +59,7 @@ Code view: `<img src="https://www.espocrm.com/images/espocrm-logo.png" width="30
 <table class="table table-bordered" border="0.5pt">
   <tbody>
     <tr bgcolor="#659B86">
-      <td bgcolor="#659B86" width="50%" style="text-align: center;">
+      <td width="50%" style="text-align: center;">
         <span style="color: rgb(0, 0, 0); font-size: 12px; line-height: 1;">id</span>
       </td>
       <td width="50%" style="text-align: center;">
@@ -91,4 +91,5 @@ Code view: `<img src="https://www.espocrm.com/images/espocrm-logo.png" width="30
 ## Link
 
 You can create a link by clicking the link button in the tool panel.
+
 Code view: `<a href="https://www.espocrm.com">Click me</a>`
