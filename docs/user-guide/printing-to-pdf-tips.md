@@ -40,21 +40,19 @@ Due to a security policy some of HTML tags, attributes or styles may not be supp
 You can add a logo of your company or other images to your PDF document with the next ways:
 * Click the picture button in the tools panel -> Browse -> select a file.
 
-Code view: `<img style="width: 350px;" src="?entryPoint=attachment&amp;id=5fec48f49f577cc31">`
+Code view: `<img src="?entryPoint=attachment&amp;id=5fec48f49f577cc31" style="width: 25%>`
 
 By utilizing this code line you are even able to fetch the image from the Document, or any other entity either. All you need is to define the `id` parameter of the desired image.
 * Click the picture button in the tools panel -> input Image URL line -> Insert
 
-Code view: `<img style="width: 350px;" src="https://www.espocrm.com/images/espocrm-logo.png">`
+Code view: `<img src="https://www.espocrm.com/images/espocrm-logo.png" width="300" height="100">`
 
 #### Resize image
 
-* Setting size with the percentage: `style="width: 25%;"`
-* Setting size with the pixel amount: `width="300" height="100"`
+* Setting size with in percentage: `style="width: 25%;"`
+* Setting size with in pixels: `width="300" height="100"`
 
 ## Table
-
-You can easily add a new table with the adding table tools on the panel.
 
 Table 2x2 structure:
 ```
